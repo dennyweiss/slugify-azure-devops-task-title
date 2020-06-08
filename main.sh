@@ -7,7 +7,7 @@ if [[ -z "${1}" ]]; then
 fi 
 
 if [[ -z "${NODE_PATH}" ]]; then
-  NODE_PATH="/usr/local/opt/node@6/bin/node"
+  NODE_PATH="/Users/dschulz/.nvm/versions/node/v12.16.2/bin/node"
 fi
 
 RESULT="$(${NODE_PATH} ./slugify.js "${INPUT}" )"

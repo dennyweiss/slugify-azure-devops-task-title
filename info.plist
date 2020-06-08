@@ -153,7 +153,7 @@ echo -n "${QUERY}"</string>
 			<key>xpos</key>
 			<integer>300</integer>
 			<key>ypos</key>
-			<integer>410</integer>
+			<integer>340</integer>
 		</dict>
 	</dict>
 	<key>variables</key>
